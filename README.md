@@ -44,8 +44,6 @@ $ cd ../scripts
 $ streamlit run app.py
 
 ```
-
-
 ## Packages
 
 All the packages used in notebooks are already included in last Python version. 
