@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [List of packages in detail] (#packages)
+* [Packages] (#packages)
 
 ## General info
 This project was created for a Machine Learning and Programming course. The aim was to create an algorithm, able to help renters to find the
